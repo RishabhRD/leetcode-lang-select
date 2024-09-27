@@ -2,6 +2,8 @@
 
 Select random languages for solving leetcode problem among friends.
 
+![figlet2](https://github.com/user-attachments/assets/754d57a3-e9de-4c0c-bed6-06b83d12f4a9)
+
 ## Dependencies
 
 For fancy output, tool uses:
