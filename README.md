@@ -11,7 +11,7 @@ For fancy output, tool uses:
 - figlet
 - echo
 
-command for its working. Can use `sudo apt install` for installing figlet on
+command for its working. Can use `sudo apt install figlet` for installing figlet on
 Ubuntu.
 
 ## Build
