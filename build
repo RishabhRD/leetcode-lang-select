@@ -1,0 +1,1 @@
+g++ -std=c++17 leetcode_lang_select.cpp -o leetcode_lang_select
